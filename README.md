@@ -2,7 +2,7 @@
 
 Aviso de Uso Acadêmico
 
-Este projeto é distribuído sob a Licença MIT. No entanto, foi desenvolvido com fins exclusivamente acadêmicos e educacionais.
+Este projeto é distribuído sob a Licença MIT. No entanto, foi desenvolvido com fins exclusivamente acadêmicos e científicos.
 
 **O uso comercial não autorizado é desencorajado.** Para uso comercial, entre em contato com o autor.
 
