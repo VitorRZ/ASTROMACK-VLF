@@ -16,6 +16,6 @@ Se este código for utilizado em artigos, teses ou outros trabalhos científicos
 
 > [Ano: 2025].
 
-> Disponível em: [URL do GitHub: https://github.com/VitorRZ/ASTROMACK-VLF/edit/main/]
+> Disponível em: [URL do GitHub: https://github.com/VitorRZ/ASTROMACK-VLF]
 
 A comunidade é bem-vinda a contribuir com melhorias, sugestões e discussões.
