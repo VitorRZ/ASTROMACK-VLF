@@ -4,7 +4,7 @@ Aviso de Uso Acadêmico
 
 Este projeto é distribuído sob a Licença MIT. No entanto, foi desenvolvido com fins exclusivamente acadêmicos e científicos.
 
-**O uso comercial não autorizado <ins>é desencorajado.</ins>** Para uso comercial, entre em contato com o autor.
+**O uso comercial não autorizado <ins> é desencorajado.</ins>** Para uso comercial, entre em contato com o autor.
 
 Se este código for utilizado em artigos, teses ou outros trabalhos científicos, por favor, cite a seguinte referência:
 
