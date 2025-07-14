@@ -1,0 +1,3 @@
+Pasta destinada ao armazenamento dos arquivos Pré-processamento.
+
+Arquivos de backup para python, poderão ser acessados por aqui no formato .bin.

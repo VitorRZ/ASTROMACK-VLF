@@ -1,0 +1,3 @@
+Pasta destinada ao armazenamento dos arquivos finais.
+
+Aqui serão depositados os arquivos finais do processamento do sinal. Estes arquivos estarão nos formatos .fits, .txt e .bin.
