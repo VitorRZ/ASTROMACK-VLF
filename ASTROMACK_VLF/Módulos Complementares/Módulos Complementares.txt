@@ -1,0 +1,6 @@
+Pasta destinada ao armazenamento de Módulos complementares ao software. Desenvolvidos ao logo da pesquisa em complemento com a linha principal.
+
+Para chamar estes módulos no programa principal, poderá ser criada uma copia para testes e modificações, ou a chamada direta.
+Vale resaltar que será necessario adapitar o programa principal para chamar estes módulos.
+
+Mais detalhes sobre os resultados de cada módulo estão descritos na discetação de Mestrado dos criadores do ASTROMACK-VLF, disponível no menu principal.
