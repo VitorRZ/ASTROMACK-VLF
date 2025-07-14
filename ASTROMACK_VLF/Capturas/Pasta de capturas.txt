@@ -1,0 +1,4 @@
+Pasta destinada ao armazenamento de arquivos de capturas via Audacity ou outro software de captura de dados.
+
+Pré-requisito para o ASTROMACK-VLF:
+Os arquivos tem que esta no formato .mat (MAT5 (GNU Octave 2.1 / Matlab 5.0) 32-bit float) ou .bin (np.float64). Ambos com a taxa de amostragem de 96000 amostras por segundo.
